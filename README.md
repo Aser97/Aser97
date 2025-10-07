@@ -10,7 +10,6 @@
   <a href="https://aser97.github.io/Blog/"><img src="https://img.shields.io/badge/Website-0A66C2?logo=googlechrome&logoColor=white"></a>
   <a href="https://huggingface.co/AserLompo"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black"></a>
   <a href="https://x.com/aserlompo"><img src="https://img.shields.io/badge/Twitter-black?logo=x"></a>
-  <a href="https://www.instagram.com/aserlompo"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -18,49 +17,55 @@
 ### 🧩 About Me
 
 I'm currently pursuing a **Master’s in Mathematics & Machine Learning** at **MILA / ÉTS Montréal**, focusing on:
-- **Visual Reasoning** and **Multimodal Understanding**  
+- **Visual Reasoning** and **Multimodal Understanding**
+- **Number Processing** in LLMs
 - **Reinforcement Learning**  
-- Elegant bridges between **symbolic theory** and **empirical AI systems**
 
-I’m particularly passionate about how **text-based reasoning can be transferred into visual reasoning**, enabling models to learn *how to think*, not just *how to predict*.
 
-💡 I’m **actively seeking research collaborations and opportunities** in machine learning, vision-language modeling, and efficient dataset generation.
+💡 I’m **actively seeking research collaborations and job opportunities** in machine learning, vision-language modeling, and efficient dataset generation.
 
 ---
 
 ### 📚 Selected Research
 
-| Title | Venue | Links |
-|-------|--------|-------|
-| **Modality-Swap Distillation: Rendering Textual Reasoning into Visual Supervision** | Under Review at **ICLR 2026** | [📘 PDF](https://aser97.github.io/Blog/assets/documents/Visual_TableQA_ICLR_2026.pdf) |
-| **Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images** | **NeurIPS 2025 Workshop** on Foundations of Reasoning in LMs | [🧠 arXiv](https://arxiv.org/pdf/2509.07966) |
-| **Multi-objective Representation for Numbers in Clinical Narratives** | **CoRR 2024** | [🧬 arXiv](https://doi.org/10.48550/arXiv.2405.18448) |
-| **Parametric Graph for Unimodal Ranking Bandit** | **ICML 2021** | [📄 HAL](https://hal.archives-ouvertes.fr/hal-03256621/) |
-
-**Reviewer:** ICCV 2023 • CVPR 2026 • ICLR 2026
-
+- **Boammani Aser Lompo, Marc Haraoui**  
+  *MODALITY-SWAP DISTILLATION: Rendering Textual Reasoning into Visual Supervision.*  
+  Under review at **ICLR 2026**
+- **Boammani Aser Lompo, Marc Haraoui**  
+  *Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images.*  
+  **NeurIPS 2025 Workshop** — <a href="https://arxiv.org/pdf/2509.07966" class="tag is-info is-light" target="_blank">arXiv</a>
+- **Boammani Aser Lompo, Thanh-Dung Le, Philippe Jouvet, Rita Noumeir**  
+    *Multi-objective Representation for Numbers in Clinical Narratives: A CamemBERT-Bio-Based Alternative to Large-Scale LLMs.* **CoRR 2024** —
+    <a href="https://doi.org/10.48550/arXiv.2405.18448" class="tag is-info is-light" target="_blank" rel="noopener">DOI</a>
+- **Camille-Sovanneary Gauthier, Romaric Gaudel, Elisa Fromont, Boammani Aser Lompo**  
+    *Parametric Graph for Unimodal Ranking Bandit.* **ICML 2021** —
+    <a href="https://hal.archives-ouvertes.fr/hal-03256621/" class="tag is-warning is-light" target="_blank" rel="noopener">HAL</a>
 ---
 
 ### 🧠 Core Projects
 
-#### 🧾 [TableQA-Synthetic](https://github.com/Aser97/TableQA-Synthetic)
+#### 🧾 [VisualTableQA](https://github.com/AI-4-Everyone/Visual-TableQA-v2)
 A large-scale **synthetic dataset generation pipeline** for multimodal reasoning over tables and diagrams.
 - Generates **LaTeX-rendered tables + QA pairs**
-- Built using a **two-stage LLM pipeline (layout + QA generation)**
-- Cost-efficient: *6,000 QA pairs for <$100*
+- Cost-efficient: *2.5k tables and 9k QA pairs for <$100*
 - Includes automated quality verification via **jury-based LLM evaluation**
 
-#### 🧮 [Visual-TableQA](https://github.com/Aser97/Visual-TableQA)
-A dataset and evaluation benchmark for **reasoning over table images**.  
-Bridges the gap between **text-based table QA** and **image-based multimodal reasoning**.
+#### 🧬 [Multi-Objective Token Representation](https://github.com/sadc-lab/multiobjective_token_representation)
+Research code accompanying our **CoRR 2024** paper.  
+Explores methods for representing numerical magnitudes in clinical narratives with **CamemBERT-Bio**.
 
 #### ⚖️ [Optimal-Transport](https://github.com/Aser97/Optimal-Transport)
 Notebook and visualization tools for **unbalanced optimal transport**, applied to color transfer in images.  
 Includes an interactive notebook for **visual exploration of transport maps**.
 
-#### 🧬 [Multi-Objective Token Representation](https://github.com/sadc-lab/multiobjective_token_representation)
-Research code accompanying our **CoRR 2024** paper.  
-Explores **CamemBERT-Bio + LESA + Xval** for representing numerical magnitudes in clinical narratives.
+#### ♟️ [Reinforcement Learning for Chess](https://github.com/Aser97/Chess)  
+A C++ implementation of **SARSA** and **Monte Carlo** reinforcement learning algorithms designed to approximate an optimal chess-playing policy.  
+Features efficient **Zobrist hashing** for board encoding and self-play simulations against **Stockfish** to improve decision-making.  
+*(Personal project — reached ~1350 Elo after one hour of training.)*
+
+#### 🔄 [CNN-Transformer](https://github.com/Aser97/CNN_T)  
+Revisiting the Transformer architecture through the lens of Convolutional Networks — combining global context with local inductive bias. *(Work in progress.)*
+
 
 ---
 
