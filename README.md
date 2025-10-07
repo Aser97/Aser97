@@ -54,7 +54,7 @@ Explores integrating **convolutional locality** into transformer layers for hybr
 **Languages:** Python · JavaScript · C++ · Bash · HTML/CSS  
 **Frameworks:** PyTorch · Transformers · JAX · Hugging Face · APIs  
 **Tools:** Docker · Paperspace
-**Focus Areas:** Visual-Reasoning · Number Encoding · Reinforcement Learning · Maths
+**Focus Areas:** Visual-Reasoning · Number Encoding · Reinforcement Learning · Applied Maths
 
 ---
 
