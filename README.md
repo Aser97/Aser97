@@ -1,7 +1,10 @@
-## Hi there 👋 I'm Aser Lompo
+### 🌐 Connect with Me
 
-I’m a **Machine Learning Researcher** passionate about multimodal reasoning, efficient dataset generation, and the bridge between **mathematics and intelligence**.  
-My current work focuses on **vision–language models**, **synthetic data pipelines**, and **numerical reasoning in LLMs**.
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:lompoaser9@gmail.com)
+[![Website](https://img.shields.io/badge/Website-0A66C2?logo=googlechrome&logoColor=white)](https://aser97.github.io/Blog/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/AserLompo)
+[![X (Twitter)](https://img.shields.io/badge/Twitter-black?logo=x)](https://x.com/aserlompo)
+[![GitHub followers](https://img.shields.io/github/followers/Aser97?label=Follow&style=social)](https://github.com/Aser97)
 
 ---
 
@@ -61,16 +64,6 @@ When I’m not building models, I:
 - Mentor students in **mathematics** and **AI fundamentals**  
 - Compete in **chess tournaments** ♟️  
 - Capture and edit **cinematic travel videos** 🎥  
-
----
-
-### 🌐 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:lompoaser9@gmail.com)
-[![Website](https://img.shields.io/badge/Website-0A66C2?logo=googlechrome&logoColor=white)](https://aser97.github.io/Blog/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/AserLompo)
-[![X (Twitter)](https://img.shields.io/badge/Twitter-black?logo=x)](https://x.com/aserlompo)
-[![GitHub followers](https://img.shields.io/github/followers/Aser97?label=Follow&style=social)](https://github.com/Aser97)
 
 ---
 
