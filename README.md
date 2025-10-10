@@ -1,3 +1,6 @@
+> *“Tiny consistent steps compound into transformations that once seemed impossible.”*
+
+---
 ### 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:lompoaser9@gmail.com)
@@ -9,6 +12,9 @@
 ---
 
 ### 🔬 Research
+
+**[Impact of Class Imbalance on Gradient Descent Dynamics and Generalization (submission soon)](https://github.com/Aser97/Class-Imbalance-And-Gradient-Descent-Dynamics)**
+We provide a mathematical analysis showing how class imbalance affects the generalization of a gradient-descent–trained softmax classifier. By explicitly characterizing the evolution of the logits under gradient descent, we prove that the minority class converges at a rate proportional to its data fraction $\varepsilon$, leading to slower reduction of its training loss and consequently to degraded balanced generalization.
 
 **[Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images (NeurIPS 2025 Workshop)](https://arxiv.org/pdf/2509.07966)**  
 Visual reasoning over structured tabular data remains one of the hardest challenges for VLMs.  
@@ -64,7 +70,3 @@ When I’m not building models, I:
 - Mentor students in **mathematics** and **AI fundamentals**  
 - Compete in **chess tournaments** ♟️  
 - Capture and edit **cinematic travel videos** 🎥  
-
----
-
-> *“Tiny consistent steps compound into transformations that once seemed impossible.”*
