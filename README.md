@@ -13,7 +13,7 @@
 
 ### 🔬 Research
 
-**[Impact of Class Imbalance on Gradient Descent Dynamics and Generalization (submission soon)](https://github.com/Aser97/Class-Imbalance-And-Gradient-Descent-Dynamics)**
+**[Impact of Spurious Correlation on Gradient Descent Dynamics and Generalization (submission soon)](https://github.com/Aser97/Class-Imbalance-And-Gradient-Descent-Dynamics)**
 We provide a mathematical analysis showing how class imbalance affects the generalization of a gradient-descent–trained softmax classifier. By explicitly characterizing the evolution of the logits under gradient descent, we prove that the classification error for each class converges at a rate proportional to $\frac{1}{\varepsilon h T}$ with $\varepsilon $ the class proportion in the dataset, $h$ the learning rate and $T$ the training steps. This theoretical predictions are confirmed by rigourous experiments in real-scenario settings. This article formalizes, in closed form, the empirical observation that imbalance implicitly biases optimization dynamics toward the majority class.
 
 **[Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images (NeurIPS 2025 Workshop)](https://arxiv.org/pdf/2509.07966)**  
