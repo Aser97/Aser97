@@ -37,6 +37,9 @@ Explores the link between **reinforcement learning** and **online ranking** theo
 
 ### 🧩 Projects
 
+#### 🛡️ [Youth Mental Health Safety Guardrail](https://github.com/Aser97/Guardrail)
+Fine-tuned **Qwen2.5-7B + LoRA** input guardrail for youth crisis triage — 9-signal distress taxonomy, 2 532-row synthetic dataset built with CAMEL/PAIR adversarial generation, LR calibration head (F1=0.85 · Recall=0.88).
+
 #### 🧾 [Visual-TableQA Pipeline](https://github.com/AI-4-Everyone/Visual-TableQA-v2)  
 Synthetic dataset generator for multimodal reasoning — creates 2 500 LaTeX tables + 9 000 QA pairs with LLM-jury quality control.
 
