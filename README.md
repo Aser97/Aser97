@@ -53,9 +53,6 @@ Unbalanced OT visualizations for transferring color distributions between images
 C++ implementation of **SARSA** and **Monte Carlo** algorithms that learn to play chess through self-play and Stockfish simulations.  
 *(Reached ~1350 Elo after 1 hour of training.)*
 
-#### 🔄 [CNN-Transformer](https://github.com/Aser97/CNN_T)  
-Explores integrating **convolutional locality** into transformer layers for hybrid sequence modeling. *(Work in progress.)*
-
 ---
 
 ### 🧠 Tech Stack
