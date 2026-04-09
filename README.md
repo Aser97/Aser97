@@ -21,7 +21,7 @@ Visual reasoning over structured tabular data remains one of the hardest challen
 Visual-TableQA introduces a large-scale multimodal dataset of **LaTeX-rendered tables** and **9 000 reasoning-intensive QA pairs**, produced for under $100 through a *multi-model collaborative generation pipeline*.  
 The system combines *cross-model inspiration* and *LLM-jury filtering* to ensure diverse reasoning patterns and robust evaluation of visual reasoning performance.
 
-**[Modality-Swap Distillation: Rendering Textual Reasoning into Visual Supervision (ICLR 2026 under review)](https://github.com/AI-4-Everyone/Visual-TableQA-v2)**  
+**[Modality-Swap Distillation: Rendering Textual Reasoning into Visual Supervision](https://github.com/AI-4-Everyone/Visual-TableQA-v2)**  
 A novel **modality-swap** approach for distilling reasoning ability from text-only LLMs into vision-language models.  
 We show that textual reasoning can be *rendered* and re-used as synthetic visual supervision—improving cross-modal understanding at low cost.
 
