@@ -30,13 +30,13 @@ Visual reasoning over structured tabular data remains one of the hardest challen
 **[Modality-Swap Distillation: Rendering Textual Reasoning into Visual Supervision](https://github.com/AI-4-Everyone/Visual-TableQA-v2)** · *preprint*
 A **modality-swap** approach for distilling reasoning ability from text-only LLMs into vision-language models: textual reasoning is *rendered* and re-used as synthetic visual supervision, improving cross-modal understanding at low cost.
 
-**[Multi-Objective Representation for Numbers in Clinical Narratives](https://doi.org/10.48550/arXiv.2405.18448)** · *CoRR 2024*
+**[Multi-Objective Representation for Numbers in Clinical Narratives](https://doi.org/10.48550/arXiv.2405.18448)** · *under submission*
 Proposes **CamemBERT-Bio + LESA**, an efficient alternative to large-scale LLMs for modelling numerical magnitudes in medical text, with an F1 improvement while using less data and fewer parameters.
 
 **[Parametric Graph for Unimodal Ranking Bandit](https://hal.archives-ouvertes.fr/hal-03256621/)** · *ICML 2021*
 A *parametric multi-armed bandit* algorithm for ranking under structured feedback graphs, exploring the link between **reinforcement learning** and **online ranking** theory.
 
-**Reviewer:** ICCV 2023 · CVPR 2026 · ICLR 2026
+**Reviewer:** ICCV 2023 · CVPR 2026 · ICLR 2026 · NeurIPS 2026
 
 ---
 
